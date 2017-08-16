@@ -1,0 +1,20 @@
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#splash{
+	z-index:3;
+	position: absolute;
+	right:200px;
+	top:250px;
+	/*padding-right: 50%;
+	padding-bottom: 50%;*/
+	color: #5dd5ff;
+	font-size: 70px;
+	font-family: "Helvetica","Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	font-weight: lighter; 
+	opacity: 0.44;
+}
